@@ -7,7 +7,7 @@
 <details>
 <summary>Currently learning</summary>
 
-| Rank | THING-TO-RANK |
+|  | Languages|
 |-----:|---------------|
 |     1|       C++     |
 |     2|        C#     |
