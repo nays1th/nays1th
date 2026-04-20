@@ -1,7 +1,7 @@
 # About me🦦
 
 
-**Trying to show up and do better**. 
+**do better**. 
 
 
 <details>
